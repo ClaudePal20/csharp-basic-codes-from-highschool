@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P8_4_ProgramaSueldos(Do-While)\P8_4_ProgramaSueldos(Do-While)\bin\Debug\P8_4_ProgramaSueldos(Do-While).exe.config
+C:\Users\Stella\source\repos\P8_4_ProgramaSueldos(Do-While)\P8_4_ProgramaSueldos(Do-While)\bin\Debug\P8_4_ProgramaSueldos(Do-While).exe
+C:\Users\Stella\source\repos\P8_4_ProgramaSueldos(Do-While)\P8_4_ProgramaSueldos(Do-While)\bin\Debug\P8_4_ProgramaSueldos(Do-While).pdb
+C:\Users\Stella\source\repos\P8_4_ProgramaSueldos(Do-While)\P8_4_ProgramaSueldos(Do-While)\obj\Debug\P8_4_ProgramaSueldos(Do-While).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P8_4_ProgramaSueldos(Do-While)\P8_4_ProgramaSueldos(Do-While)\obj\Debug\P8_4_ProgramaSueldos(Do-While).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P8_4_ProgramaSueldos(Do-While)\P8_4_ProgramaSueldos(Do-While)\obj\Debug\P8_4_ProgramaSueldos(Do-While).exe
+C:\Users\Stella\source\repos\P8_4_ProgramaSueldos(Do-While)\P8_4_ProgramaSueldos(Do-While)\obj\Debug\P8_4_ProgramaSueldos(Do-While).pdb

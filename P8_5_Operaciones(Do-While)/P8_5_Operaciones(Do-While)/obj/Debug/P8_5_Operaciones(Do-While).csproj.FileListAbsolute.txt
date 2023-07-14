@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P8_5_Operaciones(Do-While)\P8_5_Operaciones(Do-While)\obj\Debug\P8_5_Operaciones(Do-While).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P8_5_Operaciones(Do-While)\P8_5_Operaciones(Do-While)\obj\Debug\P8_5_Operaciones(Do-While).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P8_5_Operaciones(Do-While)\P8_5_Operaciones(Do-While)\bin\Debug\P8_5_Operaciones(Do-While).exe.config
+C:\Users\Stella\source\repos\P8_5_Operaciones(Do-While)\P8_5_Operaciones(Do-While)\bin\Debug\P8_5_Operaciones(Do-While).exe
+C:\Users\Stella\source\repos\P8_5_Operaciones(Do-While)\P8_5_Operaciones(Do-While)\bin\Debug\P8_5_Operaciones(Do-While).pdb
+C:\Users\Stella\source\repos\P8_5_Operaciones(Do-While)\P8_5_Operaciones(Do-While)\obj\Debug\P8_5_Operaciones(Do-While).exe
+C:\Users\Stella\source\repos\P8_5_Operaciones(Do-While)\P8_5_Operaciones(Do-While)\obj\Debug\P8_5_Operaciones(Do-While).pdb

@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\reverse string predefined function\reverse string predefined function\bin\Debug\reverse string predefined function.exe.config
+C:\Users\Stella\source\repos\reverse string predefined function\reverse string predefined function\bin\Debug\reverse string predefined function.exe
+C:\Users\Stella\source\repos\reverse string predefined function\reverse string predefined function\bin\Debug\reverse string predefined function.pdb
+C:\Users\Stella\source\repos\reverse string predefined function\reverse string predefined function\obj\Debug\reverse string predefined function.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\reverse string predefined function\reverse string predefined function\obj\Debug\reverse string predefined function.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\reverse string predefined function\reverse string predefined function\obj\Debug\reverse string predefined function.exe
+C:\Users\Stella\source\repos\reverse string predefined function\reverse string predefined function\obj\Debug\reverse string predefined function.pdb

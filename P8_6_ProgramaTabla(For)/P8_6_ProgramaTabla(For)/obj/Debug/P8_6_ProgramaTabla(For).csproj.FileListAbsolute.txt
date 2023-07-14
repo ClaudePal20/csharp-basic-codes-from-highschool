@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P8_6_ProgramaTabla(For)\P8_6_ProgramaTabla(For)\obj\Debug\P8_6_ProgramaTabla(For).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P8_6_ProgramaTabla(For)\P8_6_ProgramaTabla(For)\obj\Debug\P8_6_ProgramaTabla(For).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P8_6_ProgramaTabla(For)\P8_6_ProgramaTabla(For)\bin\Debug\P8_6_ProgramaTabla(For).exe.config
+C:\Users\Stella\source\repos\P8_6_ProgramaTabla(For)\P8_6_ProgramaTabla(For)\bin\Debug\P8_6_ProgramaTabla(For).exe
+C:\Users\Stella\source\repos\P8_6_ProgramaTabla(For)\P8_6_ProgramaTabla(For)\bin\Debug\P8_6_ProgramaTabla(For).pdb
+C:\Users\Stella\source\repos\P8_6_ProgramaTabla(For)\P8_6_ProgramaTabla(For)\obj\Debug\P8_6_ProgramaTabla(For).exe
+C:\Users\Stella\source\repos\P8_6_ProgramaTabla(For)\P8_6_ProgramaTabla(For)\obj\Debug\P8_6_ProgramaTabla(For).pdb

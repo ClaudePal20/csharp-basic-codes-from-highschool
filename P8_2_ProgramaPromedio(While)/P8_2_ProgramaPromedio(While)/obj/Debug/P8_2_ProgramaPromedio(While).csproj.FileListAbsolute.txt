@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P8_2_ProgramaPromedio(While)\P8_2_ProgramaPromedio(While)\obj\Debug\P8_2_ProgramaPromedio(While).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P8_2_ProgramaPromedio(While)\P8_2_ProgramaPromedio(While)\obj\Debug\P8_2_ProgramaPromedio(While).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P8_2_ProgramaPromedio(While)\P8_2_ProgramaPromedio(While)\bin\Debug\P8_2_ProgramaPromedio(While).exe.config
+C:\Users\Stella\source\repos\P8_2_ProgramaPromedio(While)\P8_2_ProgramaPromedio(While)\bin\Debug\P8_2_ProgramaPromedio(While).exe
+C:\Users\Stella\source\repos\P8_2_ProgramaPromedio(While)\P8_2_ProgramaPromedio(While)\bin\Debug\P8_2_ProgramaPromedio(While).pdb
+C:\Users\Stella\source\repos\P8_2_ProgramaPromedio(While)\P8_2_ProgramaPromedio(While)\obj\Debug\P8_2_ProgramaPromedio(While).exe
+C:\Users\Stella\source\repos\P8_2_ProgramaPromedio(While)\P8_2_ProgramaPromedio(While)\obj\Debug\P8_2_ProgramaPromedio(While).pdb

@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\Actividad_de_Reforzamiento\Actividad_de_Reforzamiento\bin\Debug\Actividad_de_Reforzamiento.exe.config
+C:\Users\Stella\source\repos\Actividad_de_Reforzamiento\Actividad_de_Reforzamiento\bin\Debug\Actividad_de_Reforzamiento.exe
+C:\Users\Stella\source\repos\Actividad_de_Reforzamiento\Actividad_de_Reforzamiento\bin\Debug\Actividad_de_Reforzamiento.pdb
+C:\Users\Stella\source\repos\Actividad_de_Reforzamiento\Actividad_de_Reforzamiento\obj\Debug\Actividad_de_Reforzamiento.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\Actividad_de_Reforzamiento\Actividad_de_Reforzamiento\obj\Debug\Actividad_de_Reforzamiento.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\Actividad_de_Reforzamiento\Actividad_de_Reforzamiento\obj\Debug\Actividad_de_Reforzamiento.exe
+C:\Users\Stella\source\repos\Actividad_de_Reforzamiento\Actividad_de_Reforzamiento\obj\Debug\Actividad_de_Reforzamiento.pdb

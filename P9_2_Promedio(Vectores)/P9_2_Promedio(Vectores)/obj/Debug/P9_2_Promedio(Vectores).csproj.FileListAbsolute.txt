@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P9_2_Promedio(Vectores)\P9_2_Promedio(Vectores)\bin\Debug\P9_2_Promedio(Vectores).exe.config
+C:\Users\Stella\source\repos\P9_2_Promedio(Vectores)\P9_2_Promedio(Vectores)\bin\Debug\P9_2_Promedio(Vectores).exe
+C:\Users\Stella\source\repos\P9_2_Promedio(Vectores)\P9_2_Promedio(Vectores)\bin\Debug\P9_2_Promedio(Vectores).pdb
+C:\Users\Stella\source\repos\P9_2_Promedio(Vectores)\P9_2_Promedio(Vectores)\obj\Debug\P9_2_Promedio(Vectores).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P9_2_Promedio(Vectores)\P9_2_Promedio(Vectores)\obj\Debug\P9_2_Promedio(Vectores).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P9_2_Promedio(Vectores)\P9_2_Promedio(Vectores)\obj\Debug\P9_2_Promedio(Vectores).exe
+C:\Users\Stella\source\repos\P9_2_Promedio(Vectores)\P9_2_Promedio(Vectores)\obj\Debug\P9_2_Promedio(Vectores).pdb

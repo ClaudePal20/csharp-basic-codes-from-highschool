@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P7_8_ProgramaCasaDeCambio\P7_8_ProgramaCasaDeCambio\bin\Debug\P7_8_ProgramaCasaDeCambio.exe.config
+C:\Users\Stella\source\repos\P7_8_ProgramaCasaDeCambio\P7_8_ProgramaCasaDeCambio\bin\Debug\P7_8_ProgramaCasaDeCambio.exe
+C:\Users\Stella\source\repos\P7_8_ProgramaCasaDeCambio\P7_8_ProgramaCasaDeCambio\bin\Debug\P7_8_ProgramaCasaDeCambio.pdb
+C:\Users\Stella\source\repos\P7_8_ProgramaCasaDeCambio\P7_8_ProgramaCasaDeCambio\obj\Debug\P7_8_ProgramaCasaDeCambio.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_8_ProgramaCasaDeCambio\P7_8_ProgramaCasaDeCambio\obj\Debug\P7_8_ProgramaCasaDeCambio.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_8_ProgramaCasaDeCambio\P7_8_ProgramaCasaDeCambio\obj\Debug\P7_8_ProgramaCasaDeCambio.exe
+C:\Users\Stella\source\repos\P7_8_ProgramaCasaDeCambio\P7_8_ProgramaCasaDeCambio\obj\Debug\P7_8_ProgramaCasaDeCambio.pdb

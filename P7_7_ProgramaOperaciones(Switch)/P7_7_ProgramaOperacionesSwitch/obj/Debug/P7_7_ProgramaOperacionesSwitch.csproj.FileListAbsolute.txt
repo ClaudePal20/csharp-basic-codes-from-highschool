@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch\obj\Debug\P7_7_ProgramaOperacionesSwitch.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch\obj\Debug\P7_7_ProgramaOperacionesSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch\bin\Debug\P7_7_ProgramaOperacionesSwitch.exe.config
+C:\Users\Stella\source\repos\P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch\bin\Debug\P7_7_ProgramaOperacionesSwitch.exe
+C:\Users\Stella\source\repos\P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch\bin\Debug\P7_7_ProgramaOperacionesSwitch.pdb
+C:\Users\Stella\source\repos\P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch\obj\Debug\P7_7_ProgramaOperacionesSwitch.exe
+C:\Users\Stella\source\repos\P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch\obj\Debug\P7_7_ProgramaOperacionesSwitch.pdb

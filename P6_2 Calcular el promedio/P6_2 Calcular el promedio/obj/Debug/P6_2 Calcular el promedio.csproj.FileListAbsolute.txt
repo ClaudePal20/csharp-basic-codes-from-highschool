@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P6_2 Calcular el promedio\P6_2 Calcular el promedio\obj\Debug\P6_2 Calcular el promedio.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P6_2 Calcular el promedio\P6_2 Calcular el promedio\bin\Debug\P6_2 Calcular el promedio.exe.config
+C:\Users\Stella\source\repos\P6_2 Calcular el promedio\P6_2 Calcular el promedio\bin\Debug\P6_2 Calcular el promedio.exe
+C:\Users\Stella\source\repos\P6_2 Calcular el promedio\P6_2 Calcular el promedio\bin\Debug\P6_2 Calcular el promedio.pdb
+C:\Users\Stella\source\repos\P6_2 Calcular el promedio\P6_2 Calcular el promedio\obj\Debug\P6_2 Calcular el promedio.exe
+C:\Users\Stella\source\repos\P6_2 Calcular el promedio\P6_2 Calcular el promedio\obj\Debug\P6_2 Calcular el promedio.pdb
+C:\Users\Stella\source\repos\P6_2 Calcular el promedio\P6_2 Calcular el promedio\obj\Debug\P6_2 Calcular el promedio.csprojAssemblyReference.cache

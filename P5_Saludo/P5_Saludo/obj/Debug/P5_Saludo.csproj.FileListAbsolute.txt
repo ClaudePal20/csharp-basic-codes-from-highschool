@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P5_Saludo\P5_Saludo\obj\Debug\P5_Saludo.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P5_Saludo\P5_Saludo\bin\Debug\P5_Saludo.exe.config
+C:\Users\Stella\source\repos\P5_Saludo\P5_Saludo\bin\Debug\P5_Saludo.exe
+C:\Users\Stella\source\repos\P5_Saludo\P5_Saludo\bin\Debug\P5_Saludo.pdb
+C:\Users\Stella\source\repos\P5_Saludo\P5_Saludo\obj\Debug\P5_Saludo.exe
+C:\Users\Stella\source\repos\P5_Saludo\P5_Saludo\obj\Debug\P5_Saludo.pdb
+C:\Users\Stella\source\repos\P5_Saludo\P5_Saludo\obj\Debug\P5_Saludo.csprojAssemblyReference.cache

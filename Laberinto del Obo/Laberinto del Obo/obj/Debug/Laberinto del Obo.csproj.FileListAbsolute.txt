@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\Laberinto del Obo\Laberinto del Obo\bin\Debug\Laberinto del Obo.exe.config
+C:\Users\Stella\source\repos\Laberinto del Obo\Laberinto del Obo\bin\Debug\Laberinto del Obo.exe
+C:\Users\Stella\source\repos\Laberinto del Obo\Laberinto del Obo\bin\Debug\Laberinto del Obo.pdb
+C:\Users\Stella\source\repos\Laberinto del Obo\Laberinto del Obo\obj\Debug\Laberinto del Obo.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\Laberinto del Obo\Laberinto del Obo\obj\Debug\Laberinto del Obo.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\Laberinto del Obo\Laberinto del Obo\obj\Debug\Laberinto del Obo.exe
+C:\Users\Stella\source\repos\Laberinto del Obo\Laberinto del Obo\obj\Debug\Laberinto del Obo.pdb

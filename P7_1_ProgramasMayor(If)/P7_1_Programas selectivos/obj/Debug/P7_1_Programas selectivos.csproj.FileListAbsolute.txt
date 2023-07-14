@@ -1,0 +1,14 @@
+C:\Users\Stella\source\repos\P7_1_Programas selectivos\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_1_Programas selectivos\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_1_Programas selectivos\P7_1_Programas selectivos\bin\Debug\P7_1_Programas selectivos.exe.config
+C:\Users\Stella\source\repos\P7_1_Programas selectivos\P7_1_Programas selectivos\bin\Debug\P7_1_Programas selectivos.exe
+C:\Users\Stella\source\repos\P7_1_Programas selectivos\P7_1_Programas selectivos\bin\Debug\P7_1_Programas selectivos.pdb
+C:\Users\Stella\source\repos\P7_1_Programas selectivos\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.exe
+C:\Users\Stella\source\repos\P7_1_Programas selectivos\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.pdb
+C:\Users\Stella\source\repos\P7_1_ProgramasMayor(If)\P7_1_Programas selectivos\bin\Debug\P7_1_Programas selectivos.exe.config
+C:\Users\Stella\source\repos\P7_1_ProgramasMayor(If)\P7_1_Programas selectivos\bin\Debug\P7_1_Programas selectivos.exe
+C:\Users\Stella\source\repos\P7_1_ProgramasMayor(If)\P7_1_Programas selectivos\bin\Debug\P7_1_Programas selectivos.pdb
+C:\Users\Stella\source\repos\P7_1_ProgramasMayor(If)\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_1_ProgramasMayor(If)\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_1_ProgramasMayor(If)\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.exe
+C:\Users\Stella\source\repos\P7_1_ProgramasMayor(If)\P7_1_Programas selectivos\obj\Debug\P7_1_Programas selectivos.pdb

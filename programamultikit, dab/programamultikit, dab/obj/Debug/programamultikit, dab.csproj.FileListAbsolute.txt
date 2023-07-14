@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\programamultikit, dab\programamultikit, dab\bin\Debug\programamultikit, dab.exe.config
+C:\Users\Stella\source\repos\programamultikit, dab\programamultikit, dab\bin\Debug\programamultikit, dab.exe
+C:\Users\Stella\source\repos\programamultikit, dab\programamultikit, dab\bin\Debug\programamultikit, dab.pdb
+C:\Users\Stella\source\repos\programamultikit, dab\programamultikit, dab\obj\Debug\programamultikit, dab.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\programamultikit, dab\programamultikit, dab\obj\Debug\programamultikit, dab.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\programamultikit, dab\programamultikit, dab\obj\Debug\programamultikit, dab.exe
+C:\Users\Stella\source\repos\programamultikit, dab\programamultikit, dab\obj\Debug\programamultikit, dab.pdb

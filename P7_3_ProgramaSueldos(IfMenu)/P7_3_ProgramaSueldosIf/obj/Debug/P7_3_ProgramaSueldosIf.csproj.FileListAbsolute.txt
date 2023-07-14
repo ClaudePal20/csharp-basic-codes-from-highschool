@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P7_3_ProgramaSueldosIf\P7_3_ProgramaSueldosIf\obj\Debug\P7_3_ProgramaSueldosIf.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_3_ProgramaSueldosIf\P7_3_ProgramaSueldosIf\obj\Debug\P7_3_ProgramaSueldosIf.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_3_ProgramaSueldosIf\P7_3_ProgramaSueldosIf\bin\Debug\P7_3_ProgramaSueldosIf.exe.config
+C:\Users\Stella\source\repos\P7_3_ProgramaSueldosIf\P7_3_ProgramaSueldosIf\bin\Debug\P7_3_ProgramaSueldosIf.exe
+C:\Users\Stella\source\repos\P7_3_ProgramaSueldosIf\P7_3_ProgramaSueldosIf\bin\Debug\P7_3_ProgramaSueldosIf.pdb
+C:\Users\Stella\source\repos\P7_3_ProgramaSueldosIf\P7_3_ProgramaSueldosIf\obj\Debug\P7_3_ProgramaSueldosIf.exe
+C:\Users\Stella\source\repos\P7_3_ProgramaSueldosIf\P7_3_ProgramaSueldosIf\obj\Debug\P7_3_ProgramaSueldosIf.pdb

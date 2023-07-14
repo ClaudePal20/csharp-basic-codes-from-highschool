@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P8_7_Promedio(For)\P8_7_Promedio(For)\obj\Debug\P8_7_Promedio(For).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P8_7_Promedio(For)\P8_7_Promedio(For)\obj\Debug\P8_7_Promedio(For).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P8_7_Promedio(For)\P8_7_Promedio(For)\bin\Debug\P8_7_Promedio(For).exe.config
+C:\Users\Stella\source\repos\P8_7_Promedio(For)\P8_7_Promedio(For)\bin\Debug\P8_7_Promedio(For).exe
+C:\Users\Stella\source\repos\P8_7_Promedio(For)\P8_7_Promedio(For)\bin\Debug\P8_7_Promedio(For).pdb
+C:\Users\Stella\source\repos\P8_7_Promedio(For)\P8_7_Promedio(For)\obj\Debug\P8_7_Promedio(For).exe
+C:\Users\Stella\source\repos\P8_7_Promedio(For)\P8_7_Promedio(For)\obj\Debug\P8_7_Promedio(For).pdb

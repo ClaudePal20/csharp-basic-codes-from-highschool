@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P8_1_ProgramasNumerosMenoresA100(While)\P8_1_ProgramasNumerosMenoresA100(While)\bin\Debug\P8_1_Programas_Iteractivos.exe.config
+C:\Users\Stella\source\repos\P8_1_ProgramasNumerosMenoresA100(While)\P8_1_ProgramasNumerosMenoresA100(While)\bin\Debug\P8_1_Programas_Iteractivos.exe
+C:\Users\Stella\source\repos\P8_1_ProgramasNumerosMenoresA100(While)\P8_1_ProgramasNumerosMenoresA100(While)\bin\Debug\P8_1_Programas_Iteractivos.pdb
+C:\Users\Stella\source\repos\P8_1_ProgramasNumerosMenoresA100(While)\P8_1_ProgramasNumerosMenoresA100(While)\obj\Debug\P8_1_ProgramasNumerosMenoresA100(While).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P8_1_ProgramasNumerosMenoresA100(While)\P8_1_ProgramasNumerosMenoresA100(While)\obj\Debug\P8_1_ProgramasNumerosMenoresA100(While).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P8_1_ProgramasNumerosMenoresA100(While)\P8_1_ProgramasNumerosMenoresA100(While)\obj\Debug\P8_1_Programas_Iteractivos.exe
+C:\Users\Stella\source\repos\P8_1_ProgramasNumerosMenoresA100(While)\P8_1_ProgramasNumerosMenoresA100(While)\obj\Debug\P8_1_Programas_Iteractivos.pdb

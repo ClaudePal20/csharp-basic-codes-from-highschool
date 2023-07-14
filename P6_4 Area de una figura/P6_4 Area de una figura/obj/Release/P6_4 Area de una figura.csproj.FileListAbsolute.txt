@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P6_4 Area de una figura\P6_4 Area de una figura\obj\Release\P6_4 Area de una figura.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P6_4 Area de una figura\P6_4 Area de una figura\obj\Release\P6_4 Area de una figura.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P6_4 Area de una figura\P6_4 Area de una figura\bin\Release\P6_4 Area de una figura.exe.config
+C:\Users\Stella\source\repos\P6_4 Area de una figura\P6_4 Area de una figura\bin\Release\P6_4 Area de una figura.exe
+C:\Users\Stella\source\repos\P6_4 Area de una figura\P6_4 Area de una figura\bin\Release\P6_4 Area de una figura.pdb
+C:\Users\Stella\source\repos\P6_4 Area de una figura\P6_4 Area de una figura\obj\Release\P6_4 Area de una figura.exe
+C:\Users\Stella\source\repos\P6_4 Area de una figura\P6_4 Area de una figura\obj\Release\P6_4 Area de una figura.pdb

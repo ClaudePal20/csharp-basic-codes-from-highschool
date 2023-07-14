@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P9_5_ProgramaNomina(Vectores)\P9_5_ProgramaNomina(Vectores)\bin\Debug\P9_5_ProgramaNomina(Vectores).exe.config
+C:\Users\Stella\source\repos\P9_5_ProgramaNomina(Vectores)\P9_5_ProgramaNomina(Vectores)\bin\Debug\P9_5_ProgramaNomina(Vectores).exe
+C:\Users\Stella\source\repos\P9_5_ProgramaNomina(Vectores)\P9_5_ProgramaNomina(Vectores)\bin\Debug\P9_5_ProgramaNomina(Vectores).pdb
+C:\Users\Stella\source\repos\P9_5_ProgramaNomina(Vectores)\P9_5_ProgramaNomina(Vectores)\obj\Debug\P9_5_ProgramaNomina(Vectores).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P9_5_ProgramaNomina(Vectores)\P9_5_ProgramaNomina(Vectores)\obj\Debug\P9_5_ProgramaNomina(Vectores).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P9_5_ProgramaNomina(Vectores)\P9_5_ProgramaNomina(Vectores)\obj\Debug\P9_5_ProgramaNomina(Vectores).exe
+C:\Users\Stella\source\repos\P9_5_ProgramaNomina(Vectores)\P9_5_ProgramaNomina(Vectores)\obj\Debug\P9_5_ProgramaNomina(Vectores).pdb

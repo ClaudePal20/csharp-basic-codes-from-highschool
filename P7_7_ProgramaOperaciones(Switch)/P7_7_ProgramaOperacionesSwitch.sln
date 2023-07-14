@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7_7_ProgramaOperacionesSwitch", "P7_7_ProgramaOperacionesSwitch\P7_7_ProgramaOperacionesSwitch.csproj", "{4C32733E-F439-4E71-B8DD-354371BCC480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C32733E-F439-4E71-B8DD-354371BCC480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C32733E-F439-4E71-B8DD-354371BCC480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C32733E-F439-4E71-B8DD-354371BCC480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C32733E-F439-4E71-B8DD-354371BCC480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9BE3E4F-41E1-44AF-B5DF-4A20E233D93F}
+	EndGlobalSection
+EndGlobal

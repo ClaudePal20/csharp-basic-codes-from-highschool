@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Arca de Noe/1.0.0": {
+        "runtime": {
+          "Arca de Noe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arca de Noe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

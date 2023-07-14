@@ -1,0 +1,13 @@
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\obj\Debug\netcoreapp3.1\Arca de Noe.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\obj\Debug\netcoreapp3.1\Arca de Noe.AssemblyInfoInputs.cache
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\obj\Debug\netcoreapp3.1\Arca de Noe.AssemblyInfo.cs
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\obj\Debug\netcoreapp3.1\Arca de Noe.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\bin\Debug\netcoreapp3.1\Arca de Noe.exe
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\bin\Debug\netcoreapp3.1\Arca de Noe.deps.json
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\bin\Debug\netcoreapp3.1\Arca de Noe.runtimeconfig.json
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\bin\Debug\netcoreapp3.1\Arca de Noe.runtimeconfig.dev.json
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\bin\Debug\netcoreapp3.1\Arca de Noe.dll
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\bin\Debug\netcoreapp3.1\Arca de Noe.pdb
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\obj\Debug\netcoreapp3.1\Arca de Noe.dll
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\obj\Debug\netcoreapp3.1\Arca de Noe.pdb
+C:\Users\Stella\source\repos\Arca de Noe\Arca de Noe\obj\Debug\netcoreapp3.1\Arca de Noe.genruntimeconfig.cache

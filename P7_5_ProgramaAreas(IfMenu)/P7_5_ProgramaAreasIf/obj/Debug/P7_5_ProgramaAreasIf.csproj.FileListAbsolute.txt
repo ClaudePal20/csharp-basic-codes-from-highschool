@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P7_5_ProgramaAreasIf\P7_5_ProgramaAreasIf\obj\Debug\P7_5_ProgramaAreasIf.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_5_ProgramaAreasIf\P7_5_ProgramaAreasIf\obj\Debug\P7_5_ProgramaAreasIf.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_5_ProgramaAreasIf\P7_5_ProgramaAreasIf\bin\Debug\P7_5_ProgramaAreasIf.exe.config
+C:\Users\Stella\source\repos\P7_5_ProgramaAreasIf\P7_5_ProgramaAreasIf\bin\Debug\P7_5_ProgramaAreasIf.exe
+C:\Users\Stella\source\repos\P7_5_ProgramaAreasIf\P7_5_ProgramaAreasIf\bin\Debug\P7_5_ProgramaAreasIf.pdb
+C:\Users\Stella\source\repos\P7_5_ProgramaAreasIf\P7_5_ProgramaAreasIf\obj\Debug\P7_5_ProgramaAreasIf.exe
+C:\Users\Stella\source\repos\P7_5_ProgramaAreasIf\P7_5_ProgramaAreasIf\obj\Debug\P7_5_ProgramaAreasIf.pdb

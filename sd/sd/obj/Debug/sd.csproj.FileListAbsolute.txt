@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\sd\sd\bin\Debug\sd.exe.config
+C:\Users\Stella\source\repos\sd\sd\bin\Debug\sd.exe
+C:\Users\Stella\source\repos\sd\sd\bin\Debug\sd.pdb
+C:\Users\Stella\source\repos\sd\sd\obj\Debug\sd.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\sd\sd\obj\Debug\sd.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\sd\sd\obj\Debug\sd.exe
+C:\Users\Stella\source\repos\sd\sd\obj\Debug\sd.pdb

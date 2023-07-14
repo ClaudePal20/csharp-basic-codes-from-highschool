@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P6_3 Calcular sueldo de dias trabajados y sueldo diario\P6_3 Calcular sueldo de dias trabajados y sueldo diario\obj\Debug\P6_3 Calcular sueldo de dias trabajados y sueldo diario.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P6_3 Calcular sueldo de dias trabajados y sueldo diario\P6_3 Calcular sueldo de dias trabajados y sueldo diario\bin\Debug\P6_3 Calcular sueldo de dias trabajados y sueldo diario.exe.config
+C:\Users\Stella\source\repos\P6_3 Calcular sueldo de dias trabajados y sueldo diario\P6_3 Calcular sueldo de dias trabajados y sueldo diario\bin\Debug\P6_3 Calcular sueldo de dias trabajados y sueldo diario.exe
+C:\Users\Stella\source\repos\P6_3 Calcular sueldo de dias trabajados y sueldo diario\P6_3 Calcular sueldo de dias trabajados y sueldo diario\bin\Debug\P6_3 Calcular sueldo de dias trabajados y sueldo diario.pdb
+C:\Users\Stella\source\repos\P6_3 Calcular sueldo de dias trabajados y sueldo diario\P6_3 Calcular sueldo de dias trabajados y sueldo diario\obj\Debug\P6_3 Calcular sueldo de dias trabajados y sueldo diario.exe
+C:\Users\Stella\source\repos\P6_3 Calcular sueldo de dias trabajados y sueldo diario\P6_3 Calcular sueldo de dias trabajados y sueldo diario\obj\Debug\P6_3 Calcular sueldo de dias trabajados y sueldo diario.pdb
+C:\Users\Stella\source\repos\P6_3 Calcular sueldo de dias trabajados y sueldo diario\P6_3 Calcular sueldo de dias trabajados y sueldo diario\obj\Debug\P6_3 Calcular sueldo de dias trabajados y sueldo diario.csprojAssemblyReference.cache

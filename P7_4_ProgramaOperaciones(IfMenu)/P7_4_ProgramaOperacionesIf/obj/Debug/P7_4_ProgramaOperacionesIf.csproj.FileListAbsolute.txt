@@ -1,0 +1,14 @@
+C:\Users\Stella\source\repos\P7_4_ProgramaOperacionesIf\P7_4_ProgramaOperacionesIf\bin\Debug\P7_4_ProgramaOperacionesIf.exe.config
+C:\Users\Stella\source\repos\P7_4_ProgramaOperacionesIf\P7_4_ProgramaOperacionesIf\bin\Debug\P7_4_ProgramaOperacionesIf.exe
+C:\Users\Stella\source\repos\P7_4_ProgramaOperacionesIf\P7_4_ProgramaOperacionesIf\bin\Debug\P7_4_ProgramaOperacionesIf.pdb
+C:\Users\Stella\source\repos\P7_4_ProgramaOperacionesIf\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_4_ProgramaOperacionesIf\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.exe
+C:\Users\Stella\source\repos\P7_4_ProgramaOperacionesIf\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.pdb
+C:\Users\Stella\source\repos\P7_4_ProgramaOperacionesIf\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_4_ProgramaOperaciones(IfMenu)\P7_4_ProgramaOperacionesIf\bin\Debug\P7_4_ProgramaOperacionesIf.exe.config
+C:\Users\Stella\source\repos\P7_4_ProgramaOperaciones(IfMenu)\P7_4_ProgramaOperacionesIf\bin\Debug\P7_4_ProgramaOperacionesIf.exe
+C:\Users\Stella\source\repos\P7_4_ProgramaOperaciones(IfMenu)\P7_4_ProgramaOperacionesIf\bin\Debug\P7_4_ProgramaOperacionesIf.pdb
+C:\Users\Stella\source\repos\P7_4_ProgramaOperaciones(IfMenu)\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_4_ProgramaOperaciones(IfMenu)\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_4_ProgramaOperaciones(IfMenu)\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.exe
+C:\Users\Stella\source\repos\P7_4_ProgramaOperaciones(IfMenu)\P7_4_ProgramaOperacionesIf\obj\Debug\P7_4_ProgramaOperacionesIf.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P6_1 Suma de dos números\P6_1 Suma de dos números\obj\Debug\P6_1 Suma de dos números.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P6_1 Suma de dos números\P6_1 Suma de dos números\obj\Debug\P6_1 Suma de dos números.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P6_1 Suma de dos números\P6_1 Suma de dos números\bin\Debug\P6_1 Suma de dos números.exe.config
+C:\Users\Stella\source\repos\P6_1 Suma de dos números\P6_1 Suma de dos números\bin\Debug\P6_1 Suma de dos números.exe
+C:\Users\Stella\source\repos\P6_1 Suma de dos números\P6_1 Suma de dos números\bin\Debug\P6_1 Suma de dos números.pdb
+C:\Users\Stella\source\repos\P6_1 Suma de dos números\P6_1 Suma de dos números\obj\Debug\P6_1 Suma de dos números.exe
+C:\Users\Stella\source\repos\P6_1 Suma de dos números\P6_1 Suma de dos números\obj\Debug\P6_1 Suma de dos números.pdb

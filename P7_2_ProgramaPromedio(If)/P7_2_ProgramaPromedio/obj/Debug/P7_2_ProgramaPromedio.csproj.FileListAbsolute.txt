@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P7_2_ProgramaPromedio\P7_2_ProgramaPromedio\obj\Debug\P7_2_ProgramaPromedio.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P7_2_ProgramaPromedio\P7_2_ProgramaPromedio\obj\Debug\P7_2_ProgramaPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P7_2_ProgramaPromedio\P7_2_ProgramaPromedio\bin\Debug\P7_2_ProgramaPromedio.exe.config
+C:\Users\Stella\source\repos\P7_2_ProgramaPromedio\P7_2_ProgramaPromedio\bin\Debug\P7_2_ProgramaPromedio.exe
+C:\Users\Stella\source\repos\P7_2_ProgramaPromedio\P7_2_ProgramaPromedio\bin\Debug\P7_2_ProgramaPromedio.pdb
+C:\Users\Stella\source\repos\P7_2_ProgramaPromedio\P7_2_ProgramaPromedio\obj\Debug\P7_2_ProgramaPromedio.exe
+C:\Users\Stella\source\repos\P7_2_ProgramaPromedio\P7_2_ProgramaPromedio\obj\Debug\P7_2_ProgramaPromedio.pdb

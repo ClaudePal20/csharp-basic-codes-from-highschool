@@ -1,0 +1,14 @@
+C:\Users\Stella\source\repos\tabla de multiplicar 10x10\tabla de multiplicar 10x10\bin\Debug\tabla de multiplicar 10x10.exe.config
+C:\Users\Stella\source\repos\tabla de multiplicar 10x10\tabla de multiplicar 10x10\bin\Debug\tabla de multiplicar 10x10.exe
+C:\Users\Stella\source\repos\tabla de multiplicar 10x10\tabla de multiplicar 10x10\bin\Debug\tabla de multiplicar 10x10.pdb
+C:\Users\Stella\source\repos\tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.exe
+C:\Users\Stella\source\repos\tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.pdb
+C:\Users\Stella\source\repos\matrices bidimensionales 3.2 tabla de multiplicar 10x10\tabla de multiplicar 10x10\bin\Debug\tabla de multiplicar 10x10.exe.config
+C:\Users\Stella\source\repos\matrices bidimensionales 3.2 tabla de multiplicar 10x10\tabla de multiplicar 10x10\bin\Debug\tabla de multiplicar 10x10.exe
+C:\Users\Stella\source\repos\matrices bidimensionales 3.2 tabla de multiplicar 10x10\tabla de multiplicar 10x10\bin\Debug\tabla de multiplicar 10x10.pdb
+C:\Users\Stella\source\repos\matrices bidimensionales 3.2 tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\matrices bidimensionales 3.2 tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\matrices bidimensionales 3.2 tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.exe
+C:\Users\Stella\source\repos\matrices bidimensionales 3.2 tabla de multiplicar 10x10\tabla de multiplicar 10x10\obj\Debug\tabla de multiplicar 10x10.pdb

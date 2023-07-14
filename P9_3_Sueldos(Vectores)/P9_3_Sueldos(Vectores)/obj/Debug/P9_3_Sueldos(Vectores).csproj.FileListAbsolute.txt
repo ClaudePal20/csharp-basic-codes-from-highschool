@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P9_3_Sueldos(Vectores)\P9_3_Sueldos(Vectores)\bin\Debug\P9_3_Sueldos(Vectores).exe.config
+C:\Users\Stella\source\repos\P9_3_Sueldos(Vectores)\P9_3_Sueldos(Vectores)\bin\Debug\P9_3_Sueldos(Vectores).exe
+C:\Users\Stella\source\repos\P9_3_Sueldos(Vectores)\P9_3_Sueldos(Vectores)\bin\Debug\P9_3_Sueldos(Vectores).pdb
+C:\Users\Stella\source\repos\P9_3_Sueldos(Vectores)\P9_3_Sueldos(Vectores)\obj\Debug\P9_3_Sueldos(Vectores).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P9_3_Sueldos(Vectores)\P9_3_Sueldos(Vectores)\obj\Debug\P9_3_Sueldos(Vectores).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P9_3_Sueldos(Vectores)\P9_3_Sueldos(Vectores)\obj\Debug\P9_3_Sueldos(Vectores).exe
+C:\Users\Stella\source\repos\P9_3_Sueldos(Vectores)\P9_3_Sueldos(Vectores)\obj\Debug\P9_3_Sueldos(Vectores).pdb

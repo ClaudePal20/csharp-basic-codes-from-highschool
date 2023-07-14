@@ -1,0 +1,2 @@
+C:\Users\Stella\source\repos\P5. Programa Saludo\P5. Programa Saludo\obj\Debug\P5. Programa Saludo.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P5. Programa Saludo\P5. Programa Saludo\obj\Debug\P5. Programa Saludo.csproj.CoreCompileInputs.cache

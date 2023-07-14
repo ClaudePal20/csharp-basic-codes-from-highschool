@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\dub\dub\bin\Debug\dub.exe.config
+C:\Users\Stella\source\repos\dub\dub\bin\Debug\dub.exe
+C:\Users\Stella\source\repos\dub\dub\bin\Debug\dub.pdb
+C:\Users\Stella\source\repos\dub\dub\obj\Debug\dub.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\dub\dub\obj\Debug\dub.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\dub\dub\obj\Debug\dub.exe
+C:\Users\Stella\source\repos\dub\dub\obj\Debug\dub.pdb

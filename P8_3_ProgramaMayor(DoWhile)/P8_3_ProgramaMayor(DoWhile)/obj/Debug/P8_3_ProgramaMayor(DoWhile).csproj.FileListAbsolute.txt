@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\P8_3_ProgramaMayor(DoWhile)\P8_3_ProgramaMayor(DoWhile)\obj\Debug\P8_3_ProgramaMayor(DoWhile).csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\P8_3_ProgramaMayor(DoWhile)\P8_3_ProgramaMayor(DoWhile)\obj\Debug\P8_3_ProgramaMayor(DoWhile).csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\P8_3_ProgramaMayor(DoWhile)\P8_3_ProgramaMayor(DoWhile)\bin\Debug\P8_3_ProgramaMayor(DoWhile).exe.config
+C:\Users\Stella\source\repos\P8_3_ProgramaMayor(DoWhile)\P8_3_ProgramaMayor(DoWhile)\bin\Debug\P8_3_ProgramaMayor(DoWhile).exe
+C:\Users\Stella\source\repos\P8_3_ProgramaMayor(DoWhile)\P8_3_ProgramaMayor(DoWhile)\bin\Debug\P8_3_ProgramaMayor(DoWhile).pdb
+C:\Users\Stella\source\repos\P8_3_ProgramaMayor(DoWhile)\P8_3_ProgramaMayor(DoWhile)\obj\Debug\P8_3_ProgramaMayor(DoWhile).exe
+C:\Users\Stella\source\repos\P8_3_ProgramaMayor(DoWhile)\P8_3_ProgramaMayor(DoWhile)\obj\Debug\P8_3_ProgramaMayor(DoWhile).pdb

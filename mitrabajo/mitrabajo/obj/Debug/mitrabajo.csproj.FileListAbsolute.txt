@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\mitrabajo\mitrabajo\bin\Debug\mitrabajo.exe.config
+C:\Users\Stella\source\repos\mitrabajo\mitrabajo\bin\Debug\mitrabajo.exe
+C:\Users\Stella\source\repos\mitrabajo\mitrabajo\bin\Debug\mitrabajo.pdb
+C:\Users\Stella\source\repos\mitrabajo\mitrabajo\obj\Debug\mitrabajo.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\mitrabajo\mitrabajo\obj\Debug\mitrabajo.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\mitrabajo\mitrabajo\obj\Debug\mitrabajo.exe
+C:\Users\Stella\source\repos\mitrabajo\mitrabajo\obj\Debug\mitrabajo.pdb

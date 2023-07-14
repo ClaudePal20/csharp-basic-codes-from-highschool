@@ -1,0 +1,7 @@
+C:\Users\Stella\source\repos\obus\obus\bin\Debug\obus.exe.config
+C:\Users\Stella\source\repos\obus\obus\bin\Debug\obus.exe
+C:\Users\Stella\source\repos\obus\obus\bin\Debug\obus.pdb
+C:\Users\Stella\source\repos\obus\obus\obj\Debug\obus.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\obus\obus\obj\Debug\obus.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\obus\obus\obj\Debug\obus.exe
+C:\Users\Stella\source\repos\obus\obus\obj\Debug\obus.pdb

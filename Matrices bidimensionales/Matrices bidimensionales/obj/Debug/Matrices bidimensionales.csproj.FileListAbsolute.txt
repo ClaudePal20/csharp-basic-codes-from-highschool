@@ -1,0 +1,9 @@
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\bin\Debug\Matrices bidimensionales.exe.config
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\bin\Debug\Matrices bidimensionales.exe
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\bin\Debug\Matrices bidimensionales.pdb
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\obj\Debug\Matrices bidimensionales.csprojAssemblyReference.cache
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\obj\Debug\Matrices bidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\obj\Debug\Matrices bidimensionales.exe
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\obj\Debug\Matrices bidimensionales.pdb
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\obj\Debug\Matrices_bidimensionales.Form1.resources
+C:\Users\Stella\source\repos\Matrices bidimensionales\Matrices bidimensionales\obj\Debug\Matrices bidimensionales.csproj.GenerateResource.cache
